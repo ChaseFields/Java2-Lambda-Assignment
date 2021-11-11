@@ -6,6 +6,9 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
+
+// I think there were instructions missing when I cloned this code. Please let me know what was missing.
+
 public class Main {
 
     public static void main(String[] args) {
